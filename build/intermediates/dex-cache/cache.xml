@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/victor/.android/build-cache/bdc4a1ba0bdaa37bc02a567053b7ed51fa806497/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/victor/xiaoyu/MyReminder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ee6c819f305500dc86be1add99db812930125d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/.android/build-cache/d2f70b28d5e27e51d5b735148bbe167934fa01e7/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/victor/xiaoyu/MyReminder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_9a4ac6ba3da8bd0c9e03e8c1480f200dd2a49416/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/.android/build-cache/d2f70b28d5e27e51d5b735148bbe167934fa01e7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/victor/xiaoyu/MyReminder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_66be5585afaf348b1558d22cf6d256ed6ac841fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/.android/build-cache/c0894923de0bc1a0b41dc3eec5523b851d6fb66d/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/victor/xiaoyu/MyReminder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_14f6ce717b13630d7503b7d13f04a2ca3b19e0a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/.android/build-cache/4c5a42afb9a1edbb653e483be7cd6e042a3c1ca1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/home/victor/xiaoyu/MyReminder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_982f010ce9b8046cf5fd3544ca40bbc2f557c0cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/.android/build-cache/d98d463750eb8fe04308251a7a98e60978be2626/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/victor/xiaoyu/MyReminder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_7b929000f53b920d950b50900533c260a6fcae3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.0.1/369f9aa48a629b4e92557b37326f42dc3de796e4/MPAndroidChart-v3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="369f9aa48a629b4e92557b37326f42dc3de796e4">
+        <dex dex="/home/victor/xiaoyu/MyReminder/app/build/intermediates/transforms/dex/debug/folders/1000/10/MPAndroidChart-v3.0.1_49a45680163085762282c88b307822ad35493a33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/.android/build-cache/45b13c7587596de2649064bf58c422272dd42335/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/victor/xiaoyu/MyReminder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21e5aea6036b18b540556bcbc73dd01f1d0b6d74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/.android/build-cache/c71209921f91936c7371e6f6fb13e5934486c4c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/victor/xiaoyu/MyReminder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_86670f7062e5e04f0bfe1258b4b2be4ab3412d66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/.android/build-cache/c0894923de0bc1a0b41dc3eec5523b851d6fb66d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/victor/xiaoyu/MyReminder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32ddde4a4a8d58069c5798ea81eaf176fc41904a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/.android/build-cache/bc22a0c558a3ebdd90f85e08bb7a1f636933aec4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/victor/xiaoyu/MyReminder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9413b406a14f20b269dea0f2f98d767485f50cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/.android/build-cache/5b56f4cb385bc1e92d3f25f3122176c533df528d/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/victor/xiaoyu/MyReminder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_84b45c12b1aa76f98bd3e30a33c7f1d334267c19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/.android/build-cache/d7fa2d8a7a3c56eea5a98c47cf33f369ec5ea83a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/victor/xiaoyu/MyReminder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52e4bfc64d92b935782dc49f1470cade057d22e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/.android/build-cache/0ef9eb6c8dab4846c9b64692fe8e0e92fdf01da1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/home/victor/xiaoyu/MyReminder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6163166fb649df908c7b6bc5d5278a2bd0f808a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/.android/build-cache/45b13c7587596de2649064bf58c422272dd42335/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/victor/xiaoyu/MyReminder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_9a5824d6e7a3d7c012fa10a5ff9050a003763f70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/xiaoyu/MyReminder/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/victor/xiaoyu/MyReminder/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_08832cc1fcc4447819eb433716c66cf08b7adbd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/victor/xiaoyu/MyReminder/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_4deebd2d2ecc66041009ea528bc51dfbee411f5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/.android/build-cache/d98d463750eb8fe04308251a7a98e60978be2626/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/victor/xiaoyu/MyReminder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c22d970074b0b8b0d0a71254baa5cfa70790d27d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/.android/build-cache/5b56f4cb385bc1e92d3f25f3122176c533df528d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/victor/xiaoyu/MyReminder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efd7bd1e7fe29a6ec39b738129c0a0cb216e3396/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/.android/build-cache/fbef283916946d40a99849008403f4f58ed4aa05/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="/home/victor/xiaoyu/MyReminder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b38daa177f5f400daaeaaaf863879f7f48298a57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/victor/xiaoyu/MyReminder/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a5a67ddaad4f0b733a6d64941ed5ee3f8f806204">
+        <dex dex="/home/victor/xiaoyu/MyReminder/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3db6e81d8e8eacb6049c946f9025f2b782e655f4/classes.dex" />
+    </item>
+
+</items>
