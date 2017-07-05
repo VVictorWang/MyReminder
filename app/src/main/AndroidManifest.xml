@@ -12,7 +12,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity"
+        <activity android:name="com.victor.myreminder.activity.MainActivity"
             android:label="MyReminder">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,24 +21,24 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Create"
-            android:parentActivityName=".MainActivity">
+            android:name="com.victor.myreminder.activity.CreateNewActivity"
+            android:parentActivityName="com.victor.myreminder.activity.MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
+                android:value="com.victor.myreminder.activity.MainActivity" />
         </activity>
         <activity
-            android:name=".Chart.pieChart"
-            android:parentActivityName=".MainActivity" />
+            android:name="com.victor.myreminder.activity.PieChartActivity"
+            android:parentActivityName="com.victor.myreminder.activity.MainActivity" />
         <activity
-            android:name=".Chart.BarChart"
-            android:parentActivityName=".MainActivity" />
-        <activity android:name=".Game.Alarm"></activity>
+            android:name="com.victor.myreminder.activity.BarChartActivity"
+            android:parentActivityName="com.victor.myreminder.activity.MainActivity" />
+        <activity android:name="com.victor.myreminder.activity.AlarmActivity"></activity>
 
         <receiver
-            android:name=".AlarmReceiver"
+            android:name="com.victor.myreminder.broadcast.AlarmReceiver"
             android:enabled="true" />
-        <receiver android:name=".MainActivity$DeleteReciever"
+        <receiver android:name="com.victor.myreminder.activity.MainActivity$DeleteReciever"
             android:enabled="true">
             <intent-filter>
                 <action android:name="REFRESH"/>
@@ -46,7 +46,7 @@
         </receiver>
 
         <service
-            android:name=".AlarmService"
+            android:name="com.victor.myreminder.service.AlarmService"
             android:enabled="true" />
     </application>
 

@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:orientation="vertical"
-    tools:context="com.example.victor.myreminder.MainActivity">
+    tools:context="com.example.victor.myreminder.com.victor.myreminder.MainActivity">
     <!--<android.support.v7.widget.Toolbar-->
     <!--android:layout_width="match_parent"-->
     <!--android:layout_height="?attr/actionBarSize"-->
